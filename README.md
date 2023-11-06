@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src='https://github.com/Roozbehmb/Roozbehmb/assets/102740951/e6b32cd6-7f63-4d88-9458-b0e76f50c0af'>
+<img style="height:200px" align="center" src='https://github.com/Roozbehmb/Roozbehmb/assets/102740951/e6b32cd6-7f63-4d88-9458-b0e76f50c0af'>
 
 ## Skills and tools I use:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
